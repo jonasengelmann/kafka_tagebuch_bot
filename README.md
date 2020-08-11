@@ -7,36 +7,20 @@ The available German gpt-2 model is really small, perhaps I will retry this proj
 
 
 Here are some cherry picked examples:
-```
-8. März. Das erste Jahr, in dem ich mich sehr gut fühlte, war das dritte. Der große und lang anhaltende Zustand der Familie machte mir keine Sorgen.
 
-```
+> 8. März. Das erste Jahr, in dem ich mich sehr gut fühlte, war das dritte. Der große und lang anhaltende Zustand der Familie machte mir keine Sorgen.
 
-```
-14. Januar. Mein Kampf besteht darin, daß ich die ganze Nacht, so viel ich will, in die Nacht hineingeboren habe, so schlecht bin, daß sich die Schmerzen in meine Haut eingraben.
-```
 
-```
-5. Januar. Ich war sehr zufrieden, der Tag war ein wenig durch die Sonne verdeckt, und das Kleid der Schwester, das ich mir eigentlich anziehen wollte, fiel mir wieder auf.
-```
+>14. Januar. Mein Kampf besteht darin, daß ich die ganze Nacht, so viel ich will, in die Nacht hineingeboren habe, so schlecht bin, daß sich die Schmerzen in meine Haut eingraben.
 
-```
-20. April. Ich bin ein wenig unzufrieden, aber mit Ruhe. Ich habe nicht mehr Zeit. Wie ist es, daß ich mich nicht um dieses Kind kümmere?
-```
+> 5. Januar. Ich war sehr zufrieden, der Tag war ein wenig durch die Sonne verdeckt, und das Kleid der Schwester, das ich mir eigentlich anziehen wollte, fiel mir wieder auf.
 
-```
-11. Februar. In der Menge von Menschen, die vor mir auf dem Weg waren, die mich kannten, dachte noch ein Weilchen später keiner mehr an das Unglück, daß er so nahe an mir gewesen war und daß ich mich mit meinen Gefühlen zu sehr zurückgehalten hatte, jetzt waren sie im Kommen und es war schon alles klar.
-```
+>20. April. Ich bin ein wenig unzufrieden, aber mit Ruhe. Ich habe nicht mehr Zeit. Wie ist es, daß ich mich nicht um dieses Kind kümmere?
 
-```
-17. Februar. Wir haben noch nicht die Ruhe, die wir brauchen: Ich habe jetzt den Überblick verloren, will mich nicht mehr wehren, weil es mir die Zeit, die mich um meine Angelegenheit nicht mehr bringt, leichtmacht.
-```
+>11. Februar. In der Menge von Menschen, die vor mir auf dem Weg waren, die mich kannten, dachte noch ein Weilchen später keiner mehr an das Unglück, daß er so nahe an mir gewesen war und daß ich mich mit meinen Gefühlen zu sehr zurückgehalten hatte, jetzt waren sie im Kommen und es war schon alles klar.
 
-```
-23. Februar. Ich dachte damals, der Tod meines Vaters sei in Wirklichkeit meine Mutter, weil sie, um sich zu erholen, ihre Kräfte zu erhalten, aus ihren alten Zeiten zurückkam, weil sie sich nicht kümmerte und weil sie es nicht nötig hatte, ihre kleinen Kinder mit Gewalt zu begraben, die sie ja auch gar nicht kannte.
-```
+>17. Februar. Wir haben noch nicht die Ruhe, die wir brauchen: Ich habe jetzt den Überblick verloren, will mich nicht mehr wehren, weil es mir die Zeit, die mich um meine Angelegenheit nicht mehr bringt, leichtmacht.
 
-```
-10. August. Finde, ich bin müde, und ich bin müde, so wie ich bin, ich bin müde, so wie ich bin, nicht nur körperlich, sondern auch seelisch, mein Denken hat so gelitten, ich bin müde, ich bin müde, ich fühle, mich so müde wieder, ich wache mit meinem Gewicht, mich müde wieder auf, ich wache nicht auf und bin müde.
-```
+>23. Februar. Ich dachte damals, der Tod meines Vaters sei in Wirklichkeit meine Mutter, weil sie, um sich zu erholen, ihre Kräfte zu erhalten, aus ihren alten Zeiten zurückkam, weil sie sich nicht kümmerte und weil sie es nicht nötig hatte, ihre kleinen Kinder mit Gewalt zu begraben, die sie ja auch gar nicht kannte.
 
+>10. August. Finde, ich bin müde, und ich bin müde, so wie ich bin, ich bin müde, so wie ich bin, nicht nur körperlich, sondern auch seelisch, mein Denken hat so gelitten, ich bin müde, ich bin müde, ich fühle, mich so müde wieder, ich wache mit meinem Gewicht, mich müde wieder auf, ich wache nicht auf und bin müde.
