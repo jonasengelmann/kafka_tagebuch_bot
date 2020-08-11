@@ -1,6 +1,6 @@
 # Kafka Tagebuch Bot
 
-This is an attempt to build a bot that can generate German diary entries in the style of Franz Kafka. The gpt-2 model provided is based on Zamia's German model but fine-tuned first on Kafka's oeuvre and then again on his diaries. The quality of the generated diarey entries varies a lot, often doesn't make much sense or is non-sequitur, however, some of Kafka's style can be recognized.
+This is an attempt to build a bot that can generate German diary entries in the style of Franz Kafka. The gpt-2 model provided is based on [Zamia Speech German model](http://zamia-speech.org/brain/) but fine-tuned first on Kafka's oeuvre and then again on his diaries. The quality of the generated diarey entries varies a lot, often doesn't make much sense or is non-sequitur, however, some of Kafka's style can be recognized.
 
 The available German gpt-2 model is really small, perhaps I will retry this project in English, using open.ai's 1.5B model.
 
